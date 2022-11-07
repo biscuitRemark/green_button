@@ -1,0 +1,23 @@
+{
+  "name": "green_button",
+  "version": "1.0.0",
+  "description": "just green button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biscuitRemark/green_button.git"
+  },
+  "author": "biscuitRemark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biscuitRemark/green_button/issues"
+  },
+  "homepage": "https://github.com/biscuitRemark/green_button#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
