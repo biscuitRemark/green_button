@@ -4,10 +4,10 @@
 	"description": "just green button",
 	"main": "index.js",
 	"scripts": {
-		"dev": "webpack",
+		"build": "webpack",
 		"start": "webpack-dev-server --open",
 		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build"
+		"deploy": "gh-pages -d public"
 	},
 	"repository": {
 		"type": "git",
